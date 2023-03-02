@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.12.2/src/kreversi-22.12.2.tar.xz",
-                    "sha256": "2514e80f053a8ebf3010a87f8e0ad09440500a1a436621bc2fada90c67374e43",
+                    "url": "https://download.kde.org/stable/release-service/22.12.3/src/kreversi-22.12.3.tar.xz",
+                    "sha256": "93c6b1c8bf30ee6c2753b94e7178315f726a54022c3aad303fcd9242a14f94b3",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
