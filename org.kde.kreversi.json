@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.2/src/libkdegames-23.08.2.tar.xz",
-                    "sha256": "90ed864d292fc57a3e0760d87b9e835a5d5df171621f7b70292d9f0aa4a71ce6",
+                    "url": "https://download.kde.org/stable/release-service/23.08.3/src/libkdegames-23.08.3.tar.xz",
+                    "sha256": "079d8adb5046551aaf0427b042ba9f09dfdad7bacfdeebfba3c5e593e3daea93",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.2/src/kreversi-23.08.2.tar.xz",
-                    "sha256": "27b441dde225363b13e67815d97bce1a53f6a7df2181fa38b88c4eb0b7620c2c",
+                    "url": "https://download.kde.org/stable/release-service/23.08.3/src/kreversi-23.08.3.tar.xz",
+                    "sha256": "821bc74569846f17cde7d0783484c401c259afb42e17e24a0a1d71fd8cab9640",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
